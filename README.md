@@ -1,5 +1,5 @@
 # Data Scientist
-[CV](link) | [Email](mailto:vishrutbezbarua@gmail.com) | [Linkedin](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/) | Phone : +33 783235990
+[CV([en](assets/cv_eng_ (3).pdf)| [fr](link)] | [Email](mailto:vishrutbezbarua@gmail.com) | [Linkedin](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/) | Phone : +33 783235990
 
 Welcome to my portfolio! This repository showcases my experience, projects, and educational background.
 
