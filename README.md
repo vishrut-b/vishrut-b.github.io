@@ -1,5 +1,5 @@
 # Data Scientist
-CV ([en](https://github.com/vishrut-b/vishrut-b.github.io/blob/main/assets/cv_eng_%20(3).pdf) / [fr](https://github.com/vishrut-b/vishrut-b.github.io/blob/main/assets/cv_fr_%20(2).pdf)) | [Email](mailto:vishrutbezbarua@gmail.com) | [Linkedin](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/) | Phone : +33 783235990
+CV ([en](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_eng_%20(3).pdf) / [fr](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_fr_%20(2).pdf)) | [Email](mailto:vishrutbezbarua@gmail.com) | [Linkedin](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/) | Phone : +33 783235990
 
 Welcome to my portfolio! This repository showcases my experience, projects, and educational background.
 
