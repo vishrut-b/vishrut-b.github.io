@@ -29,7 +29,7 @@ _(Apr 2023 - July 2023)_ <br>
 
 #### Personal Projects
 - **Deep Learning Project on Breast Cancer Classification [(_more details_)]()**  
-- **Customer Segmentation using KMeans Clustering [(_more details_)](https://github.com/yourusername/customer-segmentation)**  
+- **Customer Segmentation using KMeans Clustering [(_more details_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)**  
 - **Machine Learning Project on Laptop Price Prediction [(_more details_)](https://github.com/yourusername/laptop-price-prediction)**  
 
 #### Course Projects
