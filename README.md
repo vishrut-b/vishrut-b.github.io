@@ -45,10 +45,9 @@ _(Apr 2023 - July 2023)_ <br>
 #### Course Projects
 - **Numerical Simulations of Galactic Disk Heating [(_more details_)](https://github.com/vishrut-b/Numerical-Simulation_Galactic_Disk_Heating.git)**
 - **Building a multi-order-coverage library in Python [(_more details_)](https://github.com/vishrut-b/Python-Project-files.git)**
-- **Database Management Project with SQL [(_more details_)](https://github.com/vishrut-b/Database-Project-MySQL-.git)**
+- **Database Management Project with SQL [(_more details_)](https://raw.githubusercontent.com/vishrut-b/Database-Project-MySQL-/blob/08f5b2d7cb2a300c5e772a394091091f10b2e409/Database_Project_Report_new%20(2).pdf)**
   
 ### Education
-
 - **M2: Astrophysics and Data Science @ University of Strasbourg] [(_program details_)](https://astro.unistra.fr/en/training-education/master-astrophysics-track/#master2)**  
   Master's thesis focused on the study of cosmic filaments during the epoch of reionization.
 
