@@ -15,14 +15,8 @@ Welcome to my portfolio! This repository showcases my experience, projects, and 
   **Main tools** : Python(numpy, scipy, matplotlib, scikit-learn, healpy), [DisPerSE](https://www2.iap.fr/users/sousbie/web/html/index3c4a.html?category/Overview)<br>
   **Operating System** : Linux<br>
   
-  This work finally culminated into my master's thesis, which I had the privilege to present in front of world renowened astrophysicists and cosmologists. In plain language, this work constituted of the following steps:
-    - **Context** : The Universe at very large scales is not homogeneously distributed. At extreme scales, galaxies are arranged along a huge network of filamentary structures. These filaments and their different properties (temperature, density, nuetrality, metallicity, etc) are very poorly constrained.
-    - **Objective** : My job was to find out in what ways these properties of filaments evolve through the [**Epoch of Reionisation**](https://en.wikipedia.org/wiki/Reionization), which is that period of cosmic history when the state of the Universe went from hot to cold and from neutral to ionised. These changes were brought about by the different ionising sources like stars, galaxies, quasars, etc, which released copious amounts of ionising radiation in the form of ionising bubbles.
-    - **Methodology** :
-      - The way I tackled the proble was firstly by extracting large volumes of data cubes from [**Cosmic Dawn III**](https://coda-simulation.github.io/) simulation, which is in fact the best simulation we have at the moment to study the Epoch of Reionisation.
-      - I used an open source software called [**DisPerSE**](https://www2.iap.fr/users/sousbie/web/html/index3c4a.html?category/Overview) to detect and extract the filaments out of the simulation data cubes. This software classifies filaments based on topological criteria.
-      - Once detected, I developed algorithms in Python to acquire median radial profiles for the different properties associated to the filaments. This algortihm at first was used to characterise single filaments, and was latter modified to arrive at median radial profiles, which took into account the whole filamentary network embedded in the used data cubes.
-      - This measurement of radial profiles was repeated for different properties of the filaments for four different time snapshots, which utimately told answered the primary question about their temporal evolution.
+  This work finally culminated into my master's thesis, which I had the privilege to present in front of world renowened astrophysicists and cosmologists.
+  A brief summary of this experience is presented [here](https://vishrut-b.github.io/Master-Thesis/).
      
 
 - **Scientific Researcher Intern @ [PMMH-ESPCI, Paris](https://www.pmmh.espci.fr/)** <br>
