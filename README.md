@@ -1,10 +1,10 @@
-# Data Scientist
+# Data Scientist | Astrophysicist
 CV ([en](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_eng_%20(3).pdf) / [fr](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_fr_%20(2).pdf)) | [Email](mailto:vishrutbezbarua@gmail.com) | [Linkedin](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/) | Phone : +33 783235990
 
-Welcome to my portfolio! This repository showcases my experience, projects, and educational background.
+Welcome to my portfolio which showcases my internship experiences, projects, and educational background.
 
-- Programming : Python (numpy, scipy, matplotlib, pandas, PyTorch, scikit-learn, sqlaclchemy), Fortran 90, C
-- Communication : English (Fluent), French (Limited professional fluency), Assamese (Native), Hindi (Native)
+- Programming : Python (numpy, scipy, matplotlib, pandas, PyTorch, scikit-learn, sqlaclchemy, tensorflow, seaborn), Fortran 90, C, SQL
+- Communication : English (Fluent), French (Limited professional fluency)
 - Database Management : Microsoft SQL Server
 - Visualisation : PowerBI, Tableau
 
@@ -21,11 +21,15 @@ Welcome to my portfolio! This repository showcases my experience, projects, and 
 
 - **Scientific Researcher Intern @ [PMMH-ESPCI, Paris](https://www.pmmh.espci.fr/)** <br>
 _(Apr 2023 - July 2023)_ <br>
-
+  **Main tools** : FORTRAN 90, Python <br>
+  **Operating System** : Linux<br>
+  
   Focused on computational fluid dynamics using Fortran 90 under the guidance of Dr. Laurette Tuckerman.
 
 - **Data Analyst Intern @ [Indian Institute of Astrophysics (IIA, Bangalore)](https://www.iiap.res.in/)** <br>
   _(Feb 2024 - July 2024)_ <br>
+  **Main tools** : MS Excel, Python(numpy, matplotlib) <br>
+  **Operating System** : Linux<br>
   
   Conducted data analysis for astrophysical research, focusing on stellar evolution and celestial mechanics.
 
