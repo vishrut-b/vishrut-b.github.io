@@ -47,13 +47,8 @@ _(Apr 2023 - July 2023)_ <br>
   
 ### Education
 - **M2: Astrophysics and Data Science @ University of Strasbourg] [(_program details_)](https://astro.unistra.fr/en/training-education/master-astrophysics-track/#master2)**  
-  Master's thesis focused on the study of cosmic filaments during the epoch of reionization.
-
 - **M1: Paris Physics Master @ Université Paris Cité [(_program details_)](http://www.parisphysicsmaster.com/)**  
-  Gained comprehensive knowledge in advanced physics and data science.
-
 - **B.Sc. in Physics @ Tezpur University [(_program details_)](https://www.tezu.ernet.in/)** 
-  Specialized in theoretical and applied physics, laying the foundation for advanced studies.
 
 ---
 
