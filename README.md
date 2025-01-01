@@ -36,9 +36,9 @@ _(Apr 2023 - July 2023)_ <br>
 ### Projects
 
 #### Personal Projects
-- Deep Learning Project on Breast Cancer Classification [(_link_)]()  
+- Deep Learning Project on Breast Cancer Classification [(_link_)](https://github.com/vishrut-b/ML-Project-with-PyTorch-Breast-Cancer-Classification.git)  
 - Customer Segmentation using KMeans Clustering [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)  
-- Machine Learning Project on Laptop Price Prediction [(_see_)](https://github.com/yourusername/laptop-price-prediction)
+- Machine Learning Project on Laptop Price Prediction [(_see_)](https://github.com/vishrut-b/ML-Project-Laptop-Price-Prediction.git)
 
 #### Course Projects
 - Numerical Simulations of Galactic Disk Heating [(_see_)](https://github.com/vishrut-b/Numerical-Simulation_Galactic_Disk_Heating.git)
