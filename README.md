@@ -27,7 +27,7 @@ _(Apr 2023 - July 2023)_ <br>
   
   Wrote a FORTRAN 90 program to carry out linear stability analysis in a rectangular domain of the Boussinesq equations governing Rayleigh-Bénard convection. It was supervised by [Dr. Laurette Tuckrman](https://blog.espci.fr/laurette/)
 
-- **Data Analyst Intern @ [Indian Institute of Astrophysics (IIA, Bangalore)](https://www.iiap.res.in/)** <br>
+- **Data Analyst Intern @ [Indian Institute of Astrophysics](https://www.iiap.res.in/)** <br>
   _(May 2021 - July 2021)_ <br>
   **Main tools** : MS Excel, Python(numpy, matplotlib) <br>
   **Operating System** : Linux<br>
