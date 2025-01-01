@@ -16,7 +16,7 @@ Welcome to my portfolio which showcases my internship experiences, projects, and
   **Main tools** : Python(numpy, scipy, matplotlib, scikit-learn, healpy), [DisPerSE](https://www2.iap.fr/users/sousbie/web/html/index3c4a.html?category/Overview)<br>
   **Operating System** : Linux<br>
   
-  This work finally culminated into my master's thesis, which I had the privilege to present in front of world renowened astrophysicists and cosmologists.
+  This work, supervised by [Dr. Pierre Ocvirk](https://astro.unistra.fr/fr/recherche/pierre-ocvirk/) and [Dr. Katarina Kraljic](https://astro.unistra.fr/fr/recherche/katarina-kraljic/) finally culminated into my master's thesis, which I had the privilege to present in front of world renowened astrophysicists and cosmologists.
   A brief summary of this experience is presented [here](https://vishrut-b.github.io/Master-Thesis/).
      
 
