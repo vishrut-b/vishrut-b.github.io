@@ -53,4 +53,4 @@ _(Apr 2023 - July 2023)_ <br>
 
 ---
 
-Feel free to explore the repositories linked above, and don’t hesitate to reach out if you have questions or collaboration ideas!
+This website is still under construction. But feel free to explore the repositories linked above. I am in the process of creating interactive webpages for most of them. Don’t hesitate to reach out if you have questions or collaboration ideas!
