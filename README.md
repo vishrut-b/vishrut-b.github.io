@@ -36,14 +36,14 @@ _(Apr 2023 - July 2023)_ <br>
 ### Projects
 
 #### Personal Projects
-- **Deep Learning Project on Breast Cancer Classification [(_link_)]()**  
-- **Customer Segmentation using KMeans Clustering [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)**  
-- **Machine Learning Project on Laptop Price Prediction [(_see_)](https://github.com/yourusername/laptop-price-prediction)**  
+- Deep Learning Project on Breast Cancer Classification [(_link_)]()  
+- Customer Segmentation using KMeans Clustering [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)  
+- Machine Learning Project on Laptop Price Prediction [(_see_)](https://github.com/yourusername/laptop-price-prediction)
 
 #### Course Projects
-- **Numerical Simulations of Galactic Disk Heating [(_see_)](https://github.com/vishrut-b/Numerical-Simulation_Galactic_Disk_Heating.git)**
-- **Building a multi-order-coverage library in Python [(_see_)](https://github.com/vishrut-b/Python-Project-files.git)**
-- **Database Management Project with SQL [(_see_)](https://github.com/vishrut-b/Database-Project-MySQL-/blob/08f5b2d7cb2a300c5e772a394091091f10b2e409/Database_Project_Report_new%20(2).pdf)**
+- Numerical Simulations of Galactic Disk Heating [(_see_)](https://github.com/vishrut-b/Numerical-Simulation_Galactic_Disk_Heating.git)
+- Building a multi-order-coverage library in Python [(_see_)](https://github.com/vishrut-b/Python-Project-files.git)
+- Database Management Project with SQL [(_see_)](https://github.com/vishrut-b/Database-Project-MySQL-/blob/08f5b2d7cb2a300c5e772a394091091f10b2e409/Database_Project_Report_new%20(2).pdf)
   
 ### Education
 - **M2: Astrophysics and Data Science @ University of Strasbourg [(_program details_)](https://astro.unistra.fr/en/training-education/master-astrophysics-track/#master2)**  
