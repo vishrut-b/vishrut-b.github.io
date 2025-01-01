@@ -3,7 +3,8 @@ CV ([en](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/as
 
 Welcome to my portfolio which showcases my internship experiences, projects, and educational background.
 
-- Programming : Python (numpy, scipy, matplotlib, pandas, PyTorch, scikit-learn, sqlaclchemy, tensorflow, seaborn), Fortran 90, C, SQL
+- Programming : Python, Fortran 90, C, SQL
+- Libraries : numpy, scipy, matplotlib, pandas, PyTorch, scikit-learn, sqlaclchemy, tensorflow, seaborn
 - Communication : English (C2), French (B1)
 - Database Management : Microsoft SQL Server
 - Visualisation : PowerBI, Tableau
