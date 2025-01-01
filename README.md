@@ -24,14 +24,14 @@ _(Apr 2023 - July 2023)_ <br>
   **Main tools** : FORTRAN 90, Python <br>
   **Operating System** : Linux<br>
   
-  Focused on computational fluid dynamics using Fortran 90 under the guidance of Dr. Laurette Tuckerman.
+  Wrote a FORTRAN 90 program to carry out linear stability analysis in a rectangular domain of the Boussinesq equations governing Rayleigh-Bénard convection. 
 
 - **Data Analyst Intern @ [Indian Institute of Astrophysics (IIA, Bangalore)](https://www.iiap.res.in/)** <br>
   _(Feb 2024 - July 2024)_ <br>
   **Main tools** : MS Excel, Python(numpy, matplotlib) <br>
   **Operating System** : Linux<br>
   
-  Conducted data analysis for astrophysical research, focusing on stellar evolution and celestial mechanics.
+  Conducted data analysis for astrophysical research, focusing on stellar evolution.
 
 ### Projects
 
