@@ -1,3 +1,9 @@
-title : Vishrut Bezbarua
-logo : /assets/492ee05d-735b-465f-9788-2011cc43f7db-modified.png
-theme : jekyll-theme-minimal
+title: Vishrut Bezbarua
+logo: /assets/492ee05d-735b-465f-9788-2011cc43f7db-modified.png
+theme: jekyll-theme-minimal
+description: "Exploring data science, astrophysics, and AI solutions."
+social:
+  github: https://github.com/vishrut-b
+  linkedin: https://www.linkedin.com/in/vishrut-bezbarua-53b355205/
+  email: vishrutbezbarua@gmail.com
+keywords: ["Vishrut Bezbarua", "Astrophysics", "Data Science", "AI", "Research"]
