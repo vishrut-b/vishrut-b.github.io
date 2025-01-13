@@ -45,11 +45,10 @@ _(Apr 2023 - July 2023)_ <br>
 - Database Management Project with SQL [(_see_)](https://github.com/vishrut-b/Database-Project-MySQL-/blob/08f5b2d7cb2a300c5e772a394091091f10b2e409/Database_Project_Report_new%20(2).pdf)
   
 ### 🎓 Education
----
 
 | **Years**        | **Education**                               | **Institution**                              |
 |-------------------|-----------------------------------------------|----------------------------------------------|
-| 2023–2024        | [M2: Astrophysics and Data Science](https://astro.unistra.fr/en/training-education/master-astrophysics-track/#master2) | [University of Strasbourg](https://en.unistra.fr/) |
+| 2023–2024        | [M2: Astrophysics & Data Science](https://astro.unistra.fr/en/training-education/master-astrophysics-track/#master2) | [University of Strasbourg](https://en.unistra.fr/) |
 | 2022–2023        | [M1: Paris Physics Master](http://www.parisphysicsmaster.com/) | [Université Paris Cité](https://u-paris.fr/en/) |
 | 2019–2022        | B.Sc. in Physics                              | [Tezpur University](https://www.tezu.ernet.in/) |
 
