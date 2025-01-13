@@ -1,7 +1,9 @@
 # Data Scientist | Astrophysicist
-CV ([en](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_eng_%20(3).pdf) / [fr](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_fr_%20(2).pdf)) | [Email](mailto:vishrutbezbarua@gmail.com) | [Linkedin](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/) | Phone : +33 783235990
-
-Welcome to my portfolio which showcases my internship experiences, projects, and educational background.
+[![CV (EN)](https://img.icons8.com/ios-filled/20/000000/resume.png)](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_eng_%20(3).pdf) [CV (EN)]  
+[![CV (FR)](https://img.icons8.com/ios-filled/20/000000/resume.png)](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_fr_%20(2).pdf) [CV (FR)]  
+[![Email](https://img.icons8.com/ios-filled/20/000000/email-sign.png)](mailto:vishrutbezbarua@gmail.com) [Email](mailto:vishrutbezbarua@gmail.com)  
+[![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png)](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/) [LinkedIn](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/)  
+[![Phone](https://img.icons8.com/ios-filled/20/000000/phone.png)](#) Phone: +33 783235990  
 
 - Programming : Python, Fortran 90, C, SQL
 - Libraries : numpy, scipy, matplotlib, pandas, PyTorch, scikit-learn, sqlalchemy, tensorflow, seaborn
