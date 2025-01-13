@@ -8,7 +8,7 @@ CV ([en](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/as
 - Visualisation : PowerBI, Tableau
 
 ### Professional Experience
-
+---
 - **Data Science Intern @ [Observatoire Astronomique de Strasbourg](https://astro.unistra.fr/en/)**<br>
   _(Feb 2024 - July 2024)_<br>
   **Main tools** : Python(numpy, scipy, matplotlib, scikit-learn, healpy), [DisPerSE](https://www2.iap.fr/users/sousbie/web/html/index3c4a.html?category/Overview)<br>
@@ -33,7 +33,7 @@ _(Apr 2023 - July 2023)_ <br>
   Conducted data analysis for astrophysical research, focusing on stellar evolution. It was supervised by [Dr. C. Muthumariappan](https://www.iiap.res.in/people/profile/academic/c-muthumariappan/)
 
 ### Projects
-
+---
 #### Personal Projects
 - Deep Learning Project on Breast Cancer Classification [(_see_)](https://github.com/vishrut-b/ML-Project-with-PyTorch-Breast-Cancer-Classification.git)  
 - Customer Segmentation using KMeans Clustering [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)  
@@ -45,6 +45,7 @@ _(Apr 2023 - July 2023)_ <br>
 - Database Management Project with SQL [(_see_)](https://github.com/vishrut-b/Database-Project-MySQL-/blob/08f5b2d7cb2a300c5e772a394091091f10b2e409/Database_Project_Report_new%20(2).pdf)
   
 ### 🎓 Education
+---
 
 | **Years**        | **Education**                               | **Institution**                              |
 |-------------------|-----------------------------------------------|----------------------------------------------|
