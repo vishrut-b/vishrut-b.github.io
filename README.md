@@ -46,17 +46,11 @@ _(Apr 2023 - July 2023)_ <br>
   
 ### 🎓 Education
 
-**[University of Strasbourg, FR](https://en.unistra.fr/)**  
-_Master 2: [Astrophysics and Data Science](https://astro.unistra.fr/en/training-education/master-astrophysics-track/#master2)_  
-_July 2024_  
-
-**[Université Paris Cité, FR](https://u-paris.fr/en/)**  
-_Master 1: [Paris Physics Master](http://www.parisphysicsmaster.com/)_  
-_July 2023_  
-
-**[Tezpur University, IN](https://www.tezu.ernet.in/)**  
-_B.Sc. in Physics_  
-_July 2022_
+| **Years**        | **Education**                               | **Institution**                              |
+|-------------------|-----------------------------------------------|----------------------------------------------|
+| 2023–2024        | [M2: Astrophysics and Data Science](https://astro.unistra.fr/en/training-education/master-astrophysics-track/#master2) | [University of Strasbourg](https://en.unistra.fr/) |
+| 2022–2023        | [M1: Paris Physics Master](http://www.parisphysicsmaster.com/) | [Université Paris Cité](https://u-paris.fr/en/) |
+| 2019–2022        | B.Sc. in Physics                              | [Tezpur University](https://www.tezu.ernet.in/) |
 
 
 ---
