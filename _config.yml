@@ -1,9 +1,22 @@
-title: Vishrut Bezbarua
-logo: /assets/492ee05d-735b-465f-9788-2011cc43f7db-modified.png
+# _config.yml
+
+title: "Vishrut Bezbarua"
 theme: jekyll-theme-minimal
-description: "Exploring data science, astrophysics, and AI solutions."
-social:
-  github: https://github.com/vishrut-b
-  linkedin: https://www.linkedin.com/in/vishrut-bezbarua-53b355205/
-  email: vishrutbezbarua@gmail.com
-keywords: ["Vishrut Bezbarua", "Astrophysics", "Data Science", "AI", "Research"]
+
+logo: "/assets/492ee05d-735b-465f-9788-2011cc43f7db-modified.png"
+
+# Social links
+social_links:
+  - name: GitHub
+    url: https://github.com/vishrut-b
+    icon: fab fa-github
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/vishrut-bezbarua
+    icon: fab fa-linkedin
+  - name: Email
+    url: mailto:vishrutbezbarua@gmail.com
+    icon: fas fa-envelope
+
+# About section
+about: >
+  I am a master's graduate in Astrophysics and Data Science from the University of Strasbourg, passionate about exploring the mysteries of the cosmos and applying data science to uncover new insights. I also enjoy painting, singing and reading non-fiction.
