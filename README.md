@@ -35,6 +35,7 @@ _(Apr 2023 - July 2023)_ <br>
 ### Projects
 ---
 #### Personal Projects
+- Satellite Image Segmentation with U-Net [(see)](https://vishrut-b.github.io/Satellite-Image-Segmentation-with-Deep-Learning/#loss-function--metrics)
 - Deep Learning Project on Breast Cancer Classification [(_see_)](https://github.com/vishrut-b/ML-Project-with-PyTorch-Breast-Cancer-Classification.git)  
 - Customer Segmentation using KMeans Clustering [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)  
 - Machine Learning Project on Laptop Price Prediction [(_see_)](https://vishrut-b.github.io/ML-Project-Laptop-Price-Prediction/)
