@@ -1,8 +1,8 @@
 # Data Scientist | Astrophysicist
 CV ([en](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_eng_%20(3).pdf) / [fr](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_fr_%20(2).pdf)) | [Email](mailto:vishrutbezbarua@gmail.com) | [![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png)](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/) [LinkedIn](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/) | [![Phone](https://img.icons8.com/ios-filled/20/000000/phone.png)](#) Phone: +33(0)783235990  
 
-- Programming : Python, Fortran 90, C, SQL
-- Libraries : numpy, scipy, matplotlib, pandas, PyTorch, scikit-learn, sqlalchemy, tensorflow, seaborn
+- Programming : Python, Fortran 90, C, SQL, MongoDB
+- Libraries : numpy, scipy, matplotlib, pandas, PyTorch, scikit-learn, sqlalchemy, tensorflow, seaborn, CamemBERT, BERTopic
 - Communication : English (C2), French (B1)
 - Database Management : Microsoft SQL Server
 - Visualisation : PowerBI, Tableau
