@@ -9,7 +9,7 @@ CV ([en](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/as
 
 ### Professional Experience
 ---
-- **Data Science @ [Observatoire Astronomique de Strasbourg](https://astro.unistra.fr/en/)**<br>
+- **Data Scientist @ [Observatoire Astronomique de Strasbourg](https://astro.unistra.fr/en/)**<br>
   _(Feb 2024 - July 2024)_<br>
   **Main tools** : Python(numpy, scipy, matplotlib, scikit-learn, healpy), [DisPerSE](https://www2.iap.fr/users/sousbie/web/html/index3c4a.html?category/Overview)<br>
   **Operating System** : Linux<br>
