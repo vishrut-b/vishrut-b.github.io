@@ -34,22 +34,22 @@ _(Apr 2023 - July 2023)_ <br>
 
 ### Projects
 ---
-#### ```Machine Learning & Artificial Intelligence```
+### ```Machine Learning & Artificial Intelligence```
 
-**Computer Vision**<br>
+*Computer Vision*<br>
 - Detecting DeepFake Videos with CNN-LSTM [(_see_)](https://github.com/vishrut-b/Deep_fake_detection_CNN_LSTM.git)<br>
 - Satellite Image Segmentation with U-Net [(_see_)](https://vishrut-b.github.io/Satellite-Image-Segmentation-with-Deep-Learning/#loss-function--metrics)<br>
 
-**Natural Language Processing**<br>
+*Natural Language Processing*<br>
 - Topic Modeling of French News with BERTopic [(_see_)](https://github.com/vishrut-b/Mod-lisation-NLP-de-la-Presse-Fran-aise)<br>
 
-**Unsupervised Learning**<br>
+*Unsupervised Learning*<br>
 - Customer Segmentation using KMeans clustering [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)<br>
 
-**Classical ML**<br>
+*Classical ML*<br>
 - Laptop Price Prediction using Random Forest Regressors [(_see_)](https://vishrut-b.github.io/ML-Project-Laptop-Price-Prediction/)<br>
 
-#### ```Astrophysics```
+### ```Astrophysics```
 - Numerical Simulations of Galaxy-Black Hole collisions  [(_see_)](https://github.com/vishrut-b/Numerical-Simulation_Galactic_Disk_Heating.git)
 - Building a multi-order-coverage library in Python [(_see_)](https://github.com/vishrut-b/Python-Project-files.git)
 - Astronomical Database Management Project with MySQL [(_see_)](https://github.com/vishrut-b/Database-Project-MySQL-/blob/08f5b2d7cb2a300c5e772a394091091f10b2e409/Database_Project_Report_new%20(2).pdf)
