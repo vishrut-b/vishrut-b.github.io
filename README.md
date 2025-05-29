@@ -44,7 +44,7 @@ _(Apr 2023 - July 2023)_ <br>
 ##### Unsupervised Learning
 - Unsupervised clustering : Customer Segmentation using KMeans [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)  
 ##### Classical ML
-- Supervised : Machine Learning Project on Laptop Price Prediction using Random Forest Regressors [(_see_)](https://vishrut-b.github.io/ML-Project-Laptop-Price-Prediction/)
+- Laptop Price Prediction using Random Forest Regressors [(_see_)](https://vishrut-b.github.io/ML-Project-Laptop-Price-Prediction/)
 
 #### ```Astrophysics```
 - Numerical Simulations of Galactic Disk Heating [(_see_)](https://github.com/vishrut-b/Numerical-Simulation_Galactic_Disk_Heating.git)
