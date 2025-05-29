@@ -36,20 +36,20 @@ _(Apr 2023 - July 2023)_ <br>
 ---
 #### ```Machine Learning & Artificial Intelligence```
 
-##### Computer Vision
-- Computer Vision : Detecting DeepFake Videos with CNN-LSTM [(_see_)](https://github.com/vishrut-b/Deep_fake_detection_CNN_LSTM.git)
-- Computer Vision : Satellite Image Segmentation with U-Net [(_see_)](https://vishrut-b.github.io/Satellite-Image-Segmentation-with-Deep-Learning/#loss-function--metrics)
-##### Natural Language Processing
-- Natural Language Processing : Unsupervised Topic Modeling of French News [(_see_)](https://github.com/vishrut-b/Mod-lisation-NLP-de-la-Presse-Fran-aise)
-##### Unsupervised Learning
-- Unsupervised clustering : Customer Segmentation using KMeans [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)  
-##### Classical ML
-- Laptop Price Prediction using Random Forest Regressors [(_see_)](https://vishrut-b.github.io/ML-Project-Laptop-Price-Prediction/)
+##### Computer Vision<br>
+- Detecting DeepFake Videos with CNN-LSTM [(_see_)](https://github.com/vishrut-b/Deep_fake_detection_CNN_LSTM.git)<br>
+- Satellite Image Segmentation with U-Net [(_see_)](https://vishrut-b.github.io/Satellite-Image-Segmentation-with-Deep-Learning/#loss-function--metrics)<br>
+##### Natural Language Processing<br>
+- Natural Language Processing : Unsupervised Topic Modeling of French News [(_see_)](https://github.com/vishrut-b/Mod-lisation-NLP-de-la-Presse-Fran-aise)<br>
+##### Unsupervised Learning<br>
+- Unsupervised clustering : Customer Segmentation using KMeans [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)  <br>
+##### Classical ML<br>
+- Laptop Price Prediction using Random Forest Regressors [(_see_)](https://vishrut-b.github.io/ML-Project-Laptop-Price-Prediction/)<br>
 
 #### ```Astrophysics```
-- Numerical Simulations of Galactic Disk Heating [(_see_)](https://github.com/vishrut-b/Numerical-Simulation_Galactic_Disk_Heating.git)
+- Numerical Simulations of Galaxy-Black Hole collisions  [(_see_)](https://github.com/vishrut-b/Numerical-Simulation_Galactic_Disk_Heating.git)
 - Building a multi-order-coverage library in Python [(_see_)](https://github.com/vishrut-b/Python-Project-files.git)
-- Database Management Project with SQL [(_see_)](https://github.com/vishrut-b/Database-Project-MySQL-/blob/08f5b2d7cb2a300c5e772a394091091f10b2e409/Database_Project_Report_new%20(2).pdf)
+- Astronomical Database Management Project with MySQL [(_see_)](https://github.com/vishrut-b/Database-Project-MySQL-/blob/08f5b2d7cb2a300c5e772a394091091f10b2e409/Database_Project_Report_new%20(2).pdf)
   
 ### 🎓 Education
 
