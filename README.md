@@ -42,6 +42,7 @@ _(Apr 2023 - July 2023)_ <br>
 
 ***Natural Language Processing***<br>
 - Topic Modeling of French News with BERTopic [(_see_)](https://github.com/vishrut-b/Mod-lisation-NLP-de-la-Presse-Fran-aise)<br>
+- Hate Speech Detection on Twitter [(_see_)](https://github.com/vishrut-b/Hate_Speech_Detection_Twitter.git)<br>
 
 ***Unsupervised Learning***<br>
 - Customer Segmentation using KMeans clustering [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)<br>
