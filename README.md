@@ -2,7 +2,7 @@
 CV ([en](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_eng_%20(3).pdf) / [fr](https://raw.githubusercontent.com/vishrut-b/vishrut-b.github.io/main/assets/cv_fr_%20(2).pdf)) | [Email](mailto:vishrutbezbarua@gmail.com) | [![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png)](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/) [LinkedIn](https://www.linkedin.com/in/vishrut-bezbarua-53b355205/) | [![Phone](https://img.icons8.com/ios-filled/20/000000/phone.png)](#) Phone: +33(0)783235990  
 
 - Programming : Python, Fortran 90, C, SQL, MongoDB
-- Libraries : numpy, scipy, matplotlib, pandas, PyTorch, scikit-learn, sqlalchemy, tensorflow, seaborn, CamemBERT, BERTopic
+- Libraries : OpenCV, Pillow, numpy, scipy, matplotlib, pandas, PyTorch, scikit-learn, sqlalchemy, tensorflow, seaborn, CamemBERT, BERTopic
 - Communication : English (C2), French (B1)
 - Database Management : Microsoft SQL Server
 - Visualisation : PowerBI, Tableau
@@ -34,12 +34,13 @@ _(Apr 2023 - July 2023)_ <br>
 
 ### Projects
 ---
-#### Personal Projects
-- NLP Project: Unsupervised Topic Modeling of French News [(_see_)](https://github.com/vishrut-b/Mod-lisation-NLP-de-la-Presse-Fran-aise)
-- Satellite Image Segmentation with U-Net [(_see_)](https://vishrut-b.github.io/Satellite-Image-Segmentation-with-Deep-Learning/#loss-function--metrics)
+#### Machine / Deep Learning Projects
+- Natural Language Processing : Unsupervised Topic Modeling of French News [(_see_)](https://github.com/vishrut-b/Mod-lisation-NLP-de-la-Presse-Fran-aise)
+- Computer Vision : Detecting DeepFake Videos with CNN-LSTM [(_see_)](https://github.com/vishrut-b/Deep_fake_detection_CNN_LSTM.git)
+- Computer Vision : Satellite Image Segmentation with U-Net [(_see_)](https://vishrut-b.github.io/Satellite-Image-Segmentation-with-Deep-Learning/#loss-function--metrics)
 - Deep Learning Project on Breast Cancer Classification [(_see_)](https://github.com/vishrut-b/ML-Project-with-PyTorch-Breast-Cancer-Classification.git)  
-- Customer Segmentation using KMeans Clustering [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)  
-- Machine Learning Project on Laptop Price Prediction [(_see_)](https://vishrut-b.github.io/ML-Project-Laptop-Price-Prediction/)
+- Unsupervised clustering : Customer Segmentation using KMeans [(_see_)](https://vishrut-b.github.io/clustering-analysis-of-online-retail-data/#exploratory-data-analysis-eda)  
+- Supervised : Machine Learning Project on Laptop Price Prediction using Random Forest Regressors [(_see_)](https://vishrut-b.github.io/ML-Project-Laptop-Price-Prediction/)
 
 #### Course Projects
 - Numerical Simulations of Galactic Disk Heating [(_see_)](https://github.com/vishrut-b/Numerical-Simulation_Galactic_Disk_Heating.git)
